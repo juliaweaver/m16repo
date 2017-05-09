@@ -1,2 +1,4 @@
 # m16repo
-nice
+"shit dawg" -maya
+
+this is our readme for exercise 1 
